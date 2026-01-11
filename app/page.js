@@ -23,7 +23,7 @@ export default function Home() {
 
         <div className="flex flex-col sm:flex-row justify-center gap-3 sm:gap-4 pt-4 px-4 sm:px-0">
           <a
-            href="https://github.com/your-username/microshield"
+            href="https://github.com/microshieldAI"
             target="_blank"
             className="rounded-lg bg-gradient-to-r from-violet-600 to-fuchsia-600 px-6 sm:px-8 py-3 text-white font-semibold hover:from-violet-500 hover:to-fuchsia-500 transition-all duration-300 border-glow text-sm sm:text-base"
           >
